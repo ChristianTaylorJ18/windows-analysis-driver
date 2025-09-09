@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bypass-driver", "bypass-driver\bypass-driver.vcxproj", "{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Debug|ARM64.Build.0 = Debug|ARM64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Debug|x64.ActiveCfg = Debug|x64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Debug|x64.Build.0 = Debug|x64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Debug|x64.Deploy.0 = Debug|x64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Release|ARM64.Build.0 = Release|ARM64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Release|ARM64.Deploy.0 = Release|ARM64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Release|x64.ActiveCfg = Release|x64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Release|x64.Build.0 = Release|x64
+		{C138A9C2-CB46-08DD-6EEE-152ABD83AA8C}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB835BE8-4DB2-4A1F-AE2F-7CFC1B6370A1}
+	EndGlobalSection
+EndGlobal
